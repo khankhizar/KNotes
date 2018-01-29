@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeFossDebugAndroidTestResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\dbc32f8a9682952fb1b5a69083a9e0df\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "18,19,20,21,22,23,24,25,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1032,1092,1162,1233,1305,1363,1421,1527,2823,2886",
+                        "endLines": "18,19,20,21,22,23,24,25,49,53",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "1087,1157,1228,1300,1358,1416,1522,1586,2881,3063"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.1.aar\\6962f6fbfab9c633583b93ec22fe817e\\res\\values-sw600dp\\dimens.xml",
+                    "from": {
+                        "startLines": "17,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "708,766",
+                        "endColumns": "56,55",
+                        "endOffsets": "760,817"
+                    },
+                    "to": {
+                        "startLines": "38,39",
+                        "startColumns": "4,4",
+                        "startOffsets": "2228,2285",
+                        "endColumns": "56,55",
+                        "endOffsets": "2280,2336"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.5.6.aar\\3a50185407cba2eeb148ddf66f151ac6\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\93a2e62f563b9d2871e242cf14d27f61\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,194,268,344,403,474,542",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "119,189,263,339,398,469,537,592"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,48",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "97,166,236,310,386,445,516,2768",
+                        "endColumns": "68,69,73,75,58,70,67,54",
+                        "endOffsets": "161,231,305,381,440,511,579,2818"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\fd26a2425c988e7bf98a3f815b7d6d69\\res\\values-sw600dp\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "211,259,309,370,428,489,555,619,667,724,771,819,873,932,990,1039,1101,1157,1210,1269,1316,1381,1437,1494,1550,1600,1648,1698",
+                        "endColumns": "46,48,59,56,59,64,62,46,55,45,46,52,57,56,47,60,54,51,57,45,63,54,55,54,48,46,48,51",
+                        "endOffsets": "253,303,364,422,483,549,613,661,718,765,813,867,926,984,1033,1095,1151,1204,1263,1310,1375,1431,1488,1544,1594,1642,1692,1745"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,26,27,28,29,30,31,32,33,34,35,36,37,40,41,42,43,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "584,631,680,740,797,857,922,985,1591,1647,1693,1740,1793,1851,1908,1956,2017,2072,2124,2182,2341,2405,2460,2516,2571,2620,2667,2716",
+                        "endColumns": "46,48,59,56,59,64,62,46,55,45,46,52,57,56,47,60,54,51,57,45,63,54,55,54,48,46,48,51",
+                        "endOffsets": "626,675,735,792,852,917,980,1027,1642,1688,1735,1788,1846,1903,1951,2012,2067,2119,2177,2223,2400,2455,2511,2566,2615,2662,2711,2763"
+                    }
+                }
+            ]
+        }
+    ]
+}

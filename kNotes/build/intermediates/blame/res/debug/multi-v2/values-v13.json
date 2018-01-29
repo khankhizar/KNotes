@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "114",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\93a2e62f563b9d2871e242cf14d27f61\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

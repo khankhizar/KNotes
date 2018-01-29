@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mcc262\\values-mcc262.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\library-1.1.1.aar\\6962f6fbfab9c633583b93ec22fe817e\\res\\values-mcc262\\strings.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "840",
+                        "endColumns": "62",
+                        "endOffsets": "898"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "62",
+                        "endOffsets": "113"
+                    }
+                }
+            ]
+        }
+    ]
+}

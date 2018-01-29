@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-sw720dp-land-v21\\values-sw720dp-land-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\projects\\KNotes\\KNotes\\kNotes\\src\\main\\res\\values-sw720dp-land-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "25,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "991,941",
+                        "endColumns": "58,48",
+                        "endOffsets": "1045,985"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,114",
+                        "endColumns": "58,48",
+                        "endOffsets": "109,158"
+                    }
+                }
+            ]
+        }
+    ]
+}

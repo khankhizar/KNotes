@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.federicoiosue:checklistview-3.2.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/checklistview-3.2.1.aar/f1058b4bf44951070c27d5914e0aa746/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/checklistview-3.2.1.aar/f1058b4bf44951070c27d5914e0aa746/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.federicoiosue/checklistview/3.2.1/f0c2296f89bcefa475b076943ecad2789c3c9e9c/checklistview-3.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

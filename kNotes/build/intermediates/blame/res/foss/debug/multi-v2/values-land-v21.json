@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-land-v21\\values-land-v21.xml",
+            "map": [
+                {
+                    "source": "D:\\projects\\KNotes\\KNotes\\kNotes\\src\\main\\res\\values-land-v21\\dimens.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "757",
+                        "endColumns": "48",
+                        "endOffsets": "801"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

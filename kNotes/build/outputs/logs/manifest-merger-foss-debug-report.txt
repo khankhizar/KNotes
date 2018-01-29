@@ -1,0 +1,645 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+MERGED from [be.billington.calendar.recurrencepicker:library:1.1.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\6962f6fbfab9c633583b93ec22fe817e\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.flavienlaurent.datetimepicker:library:0.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\fd26a2425c988e7bf98a3f815b7d6d69\AndroidManifest.xml:1:115-5:12
+MERGED from [com.larswerkman:HoloColorPicker:1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\HoloColorPicker-1.4.aar\21236f275595861cf530af3b91faf828\AndroidManifest.xml:1:68-5:12
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crouton-1.8.4.aar\cd2d822d37855de22d98a3947379387d\AndroidManifest.xml:15:116-18:12
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\changelog-2.0.0.aar\3e7aab34fb07e97585176f2c82ede6f1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\dbc32f8a9682952fb1b5a69083a9e0df\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\d269a7671c260a54a6092005b5ab0297\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:2:1-15:12
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:2:1-13:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\84119ec0dc4e401ee180794966b23a17\AndroidManifest.xml:6:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\6348db1368cb429d54196ed0a9f14330\AndroidManifest.xml:17:1-22:12
+MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:2:1-11:12
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:2:1-14:12
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\6d2453963aaa3761324195f6fd022ef2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.paolorotolo:appintro:1.3.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\6f375f0f0be09f838091f930336a0014\AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\030053f61edaddc7734075be4168bab2\AndroidManifest.xml:15:1-21:12
+MERGED from [com.artemzin.rxjava:proguard-rules:1.0.14.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\proguard-rules-1.0.14.2.aar\0f10157722a8066cb6d1ead0c57d49d5\AndroidManifest.xml:2:1-10:12
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.federicoiosue:checklistview:3.2.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-3.2.1.aar\f1058b4bf44951070c27d5914e0aa746\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.federicoiosue:pixlui:2.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\pixlui-2.6.aar\3a0e156a203355dcf5b93e88b36a2b42\AndroidManifest.xml:2:1-11:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:2:1-19:12
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\leakcanary-android-no-op-1.5.aar\0110cba1e45c51a8002e9b378b29e100\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0a3fff527dd3312805dcd8bb5f9ca5cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:22:1-33:12
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+	package
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:5:5-40
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-280:12
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:7:5-64
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.INTERNET
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:14:5-66
+MERGED from [be.billington.calendar.recurrencepicker:library:1.1.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\6962f6fbfab9c633583b93ec22fe817e\AndroidManifest.xml:6:5-65
+MERGED from [be.billington.calendar.recurrencepicker:library:1.1.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\6962f6fbfab9c633583b93ec22fe817e\AndroidManifest.xml:6:5-65
+MERGED from [com.github.federicoiosue:checklistview:3.2.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-3.2.1.aar\f1058b4bf44951070c27d5914e0aa746\AndroidManifest.xml:11:5-66
+MERGED from [com.github.federicoiosue:checklistview:3.2.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-3.2.1.aar\f1058b4bf44951070c27d5914e0aa746\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:16:22-68
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:17:22-75
+uses-permission#com.google.android.apps.photos.permission.GOOGLE_PHOTOS
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:18:5-95
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:18:22-92
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:19:5-88
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:19:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:20:5-90
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:20:22-87
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:21:22-72
+uses-permission#com.pushbullet.android.permission.READ_MESSAGING_EXTENSION_DATA
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:22:5-103
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:22:22-100
+uses-permission#com.pushbullet.android.permission.SEND_MESSAGES
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:23:5-87
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:23:22-84
+uses-feature#android.hardware.camera
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.location.gps
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:29:9-53
+application
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:32:5-278:19
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\changelog-2.0.0.aar\3e7aab34fb07e97585176f2c82ede6f1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\changelog-2.0.0.aar\3e7aab34fb07e97585176f2c82ede6f1\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\dbc32f8a9682952fb1b5a69083a9e0df\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\dbc32f8a9682952fb1b5a69083a9e0df\AndroidManifest.xml:22:5-20
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\d269a7671c260a54a6092005b5ab0297\AndroidManifest.xml:12:5-20
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\d269a7671c260a54a6092005b5ab0297\AndroidManifest.xml:12:5-20
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:13:5-20
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:13:5-20
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:11:5-20
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:25:5-20
+MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:9:5-20
+MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:9:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:12:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:12:5-20
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:26:5-27:19
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:26:5-27:19
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:26:5-29:19
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:26:5-29:19
+MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:10:5-15:19
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:10:5-15:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:11:5-17:19
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:8:5-20
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:8:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:22:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:38:9-35
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:37:9-41
+	android:largeHeap
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:35:9-33
+	android:icon
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:36:9-43
+	android:allowBackup
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:34:9-35
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:39:9-59
+		REJECTED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:14:9-40
+	tools:replace
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:40:9-38
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:33:9-31
+meta-data#android.app.default_searchable
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:41:9-43:45
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:43:13-42
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:42:13-58
+meta-data#com.google.android.gms.version
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:44:9-47:44
+	tools:replace
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:47:13-42
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:46:13-66
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:45:13-58
+activity#com.android.khizar.knotes.MainActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:50:9-99:20
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:53:13-45
+	android:launchMode
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:54:13-43
+	android:exported
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:51:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:55:13-58:29
+action#android.intent.action.MAIN
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:56:17-69
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:56:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:57:27-74
+intent-filter#android.intent.action.SEARCH
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:60:13-62:29
+action#android.intent.action.SEARCH
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:61:17-71
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:61:25-68
+meta-data#android.app.searchable
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:64:13-66:54
+	android:resource
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:66:17-51
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:65:17-54
+intent-filter#android.intent.category.DEFAULT+com.google.android.gm.action.AUTO_SEND
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:68:13-74:29
+action#com.google.android.gm.action.AUTO_SEND
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:69:17-81
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:69:25-78
+category#android.intent.category.DEFAULT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:71:27-73
+data
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:73:17-48
+	android:scheme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:96:23-47
+	android:mimeType
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:73:23-45
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:75:13-81:29
+action#android.intent.action.SEND
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:76:25-66
+intent-filter#android.intent.action.SEND_MULTIPLE+android.intent.category.DEFAULT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:82:13-88:29
+action#android.intent.action.SEND_MULTIPLE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:83:17-78
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:83:25-75
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:90:13-97:29
+action#android.intent.action.VIEW
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:91:17-69
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:91:25-66
+category#android.intent.category.BROWSABLE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:94:17-78
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:94:27-75
+activity#com.android.khizar.knotes.GalleryActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:102:9-106:68
+	android:supportsRtl
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:105:13-39
+	android:configChanges
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:104:13-74
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:106:13-65
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:103:13-44
+activity#com.android.khizar.knotes.CategoryActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:108:9-116:20
+	android:parentActivityName
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:111:13-55
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:110:13-60
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:112:13-64
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:109:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:113:13-115:49
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:115:17-46
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:114:17-63
+activity#com.android.khizar.knotes.SettingsActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:119:9-127:20
+	android:parentActivityName
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:122:13-55
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:121:13-45
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:123:13-52
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:120:13-45
+activity#com.android.khizar.knotes.PasswordActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:130:9-133:65
+	android:windowSoftInputMode
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:132:13-67
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:133:13-62
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:131:13-45
+activity#com.android.khizar.knotes.AboutActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:136:9-139:46
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:138:13-57
+	android:launchMode
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:139:13-43
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:137:13-42
+activity#com.android.khizar.knotes.intro.IntroActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:142:9-145:54
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:144:13-45
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:145:13-52
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:143:13-48
+activity#com.android.khizar.knotes.SnoozeActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:148:9-153:60
+	android:excludeFromRecents
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:150:13-46
+	android:launchMode
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:151:13-48
+	android:noHistory
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:152:13-37
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:153:13-57
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:149:13-43
+activity#com.android.khizar.knotes.ShortcutActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:156:9-162:20
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:157:13-45
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:158:13-161:29
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:159:17-79
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:159:25-77
+activity#com.android.khizar.knotes.StatsActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:165:9-167:67
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:167:13-64
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:166:13-42
+receiver#com.android.khizar.knotes.receiver.AlarmReceiver
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:171:9-60
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:171:19-57
+receiver#com.android.khizar.knotes.receiver.BootCompleteReceiver
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:174:9-183:20
+	android:enabled
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:176:13-35
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:178:13-49
+	android:exported
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:177:13-37
+	android:permission
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:179:13-75
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:175:13-58
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:180:13-182:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:181:17-79
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:181:25-76
+service#com.android.khizar.knotes.async.AlarmRestoreOnRebootService
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:186:9-69
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:186:18-67
+service#com.android.khizar.knotes.services.NotificationListener
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:189:9-195:19
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:190:18-50
+	android:permission
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:191:18-92
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:189:18-63
+intent-filter#android.service.notification.NotificationListenerService
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:192:13-194:29
+action#android.service.notification.NotificationListenerService
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:193:17-98
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:193:25-96
+service#com.android.khizar.knotes.async.DataBackupIntentService
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:198:9-65
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:198:18-63
+activity#com.android.khizar.knotes.widget.WidgetConfigurationActivity
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:201:9-207:20
+	android:theme
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:203:13-64
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:202:13-63
+intent-filter#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:204:13-206:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:205:17-87
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:205:25-84
+receiver#com.android.khizar.knotes.widget.SimpleWidgetProvider
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:210:9-222:20
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:214:13-45
+	android:icon
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:213:13-42
+	android:description
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:212:13-68
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:211:13-56
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:215:13-217:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:216:17-84
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:216:25-81
+meta-data#android.appwidget.provider
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:219:13-221:60
+	android:resource
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:221:17-57
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:220:17-58
+receiver#com.android.khizar.knotes.widget.ListWidgetProvider
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:224:9-236:20
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:228:13-45
+	android:icon
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:227:13-42
+	android:description
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:226:13-66
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:225:13-54
+service#com.android.khizar.knotes.widget.ListWidgetService
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:238:9-240:72
+	android:permission
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:240:13-69
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:239:13-53
+service#com.android.khizar.knotes.extensions.ONDashClockExtension
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:243:9-262:19
+	android:label
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:246:13-45
+	android:permission
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:247:13-98
+	android:icon
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:245:13-58
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:244:13-60
+intent-filter#com.google.android.apps.dashclock.Extension
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:248:13-250:29
+action#com.google.android.apps.dashclock.Extension
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:249:17-86
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:249:25-83
+meta-data#protocolVersion
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:252:13-254:37
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:254:17-34
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:253:17-47
+meta-data#worldReadable
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:255:13-257:40
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:257:17-37
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:256:17-45
+meta-data#description
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:258:13-260:65
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:260:17-62
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:259:17-43
+service#com.android.khizar.knotes.extensions.PushBulletExtension
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:264:9-273:19
+	android:permission
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:266:13-97
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:265:13-59
+intent-filter#com.pushbullet.android.extension.MessagingExtension
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:267:13-269:29
+action#com.pushbullet.android.extension.MessagingExtension
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:268:17-94
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:268:25-91
+meta-data#io.fabric.ApiKey
+ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:275:9-277:72
+	android:value
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:277:13-69
+	android:name
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:276:13-44
+uses-sdk
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+MERGED from [be.billington.calendar.recurrencepicker:library:1.1.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\6962f6fbfab9c633583b93ec22fe817e\AndroidManifest.xml:4:5-73
+MERGED from [be.billington.calendar.recurrencepicker:library:1.1.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.1.aar\6962f6fbfab9c633583b93ec22fe817e\AndroidManifest.xml:4:5-73
+MERGED from [com.github.flavienlaurent.datetimepicker:library:0.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\fd26a2425c988e7bf98a3f815b7d6d69\AndroidManifest.xml:3:5-72
+MERGED from [com.github.flavienlaurent.datetimepicker:library:0.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-0.0.2.aar\fd26a2425c988e7bf98a3f815b7d6d69\AndroidManifest.xml:3:5-72
+MERGED from [com.larswerkman:HoloColorPicker:1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\HoloColorPicker-1.4.aar\21236f275595861cf530af3b91faf828\AndroidManifest.xml:3:5-72
+MERGED from [com.larswerkman:HoloColorPicker:1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\HoloColorPicker-1.4.aar\21236f275595861cf530af3b91faf828\AndroidManifest.xml:3:5-72
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crouton-1.8.4.aar\cd2d822d37855de22d98a3947379387d\AndroidManifest.xml:16:5-72
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crouton-1.8.4.aar\cd2d822d37855de22d98a3947379387d\AndroidManifest.xml:16:5-72
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\changelog-2.0.0.aar\3e7aab34fb07e97585176f2c82ede6f1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.gabrielemariotti.changeloglib:changelog:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\changelog-2.0.0.aar\3e7aab34fb07e97585176f2c82ede6f1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\dbc32f8a9682952fb1b5a69083a9e0df\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\dbc32f8a9682952fb1b5a69083a9e0df\AndroidManifest.xml:20:5-43
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\d269a7671c260a54a6092005b5ab0297\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\d269a7671c260a54a6092005b5ab0297\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:8:5-11:75
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:8:5-11:75
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\84119ec0dc4e401ee180794966b23a17\AndroidManifest.xml:11:5-13:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\84119ec0dc4e401ee180794966b23a17\AndroidManifest.xml:11:5-13:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\6348db1368cb429d54196ed0a9f14330\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\6348db1368cb429d54196ed0a9f14330\AndroidManifest.xml:20:5-43
+MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:8:5-10:41
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:22:5-24:41
+MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\6d2453963aaa3761324195f6fd022ef2\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\6d2453963aaa3761324195f6fd022ef2\AndroidManifest.xml:5:5-43
+MERGED from [com.github.paolorotolo:appintro:1.3.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\6f375f0f0be09f838091f930336a0014\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.paolorotolo:appintro:1.3.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\6f375f0f0be09f838091f930336a0014\AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\030053f61edaddc7734075be4168bab2\AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\030053f61edaddc7734075be4168bab2\AndroidManifest.xml:19:5-43
+MERGED from [com.artemzin.rxjava:proguard-rules:1.0.14.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\proguard-rules-1.0.14.2.aar\0f10157722a8066cb6d1ead0c57d49d5\AndroidManifest.xml:8:5-43
+MERGED from [com.artemzin.rxjava:proguard-rules:1.0.14.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\proguard-rules-1.0.14.2.aar\0f10157722a8066cb6d1ead0c57d49d5\AndroidManifest.xml:8:5-43
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.federicoiosue:checklistview:3.2.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-3.2.1.aar\f1058b4bf44951070c27d5914e0aa746\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.federicoiosue:checklistview:3.2.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-3.2.1.aar\f1058b4bf44951070c27d5914e0aa746\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.federicoiosue:pixlui:2.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\pixlui-2.6.aar\3a0e156a203355dcf5b93e88b36a2b42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.federicoiosue:pixlui:2.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\pixlui-2.6.aar\3a0e156a203355dcf5b93e88b36a2b42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\leakcanary-android-no-op-1.5.aar\0110cba1e45c51a8002e9b378b29e100\AndroidManifest.xml:20:5-22:41
+MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\leakcanary-android-no-op-1.5.aar\0110cba1e45c51a8002e9b378b29e100\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:6:5-43
+MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:6:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0a3fff527dd3312805dcd8bb5f9ca5cf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0a3fff527dd3312805dcd8bb5f9ca5cf\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:20:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:27:5-43
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+		INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
+activity#com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity
+ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:27:9-129
+	android:name
+		ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:27:19-126
+activity#com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity
+ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:28:9-122
+	android:name
+		ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:28:19-119
+activity#com.tbruyelle.rxpermissions.ShadowActivity
+ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:11:9-14:75
+	android:launchMode
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:13:13-43
+	android:theme
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:14:13-72
+	android:name
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:12:13-70
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:13:13-75

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\khizar\.gradle\caches\modules-2\files-2.1\com.github.federicoiosue\Omni-Notes-Commons\1.2.0\9ebe50fcf7a4b01d8b244cf58597a6e3729b86e8\omni-notes-Commons-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ebe50fcf7a4b01d8b244cf58597a6e3729b86e8">
+        <dex dex="D:\projects\KNotes\KNotes\kNotes\build\intermediates\transforms\dex\foss\debug\folders\1000\10\omni-notes-Commons-1.2.0_d833ab99d3c9a7e12da963027ef7c75b2ef5daa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\khizar\.android\build-cache\12fb926d8ecb785646db2adf40494d601be67710\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d939e31defd45f8d1de11e3c10879e0973cefbdc">
+        <dex dex="D:\projects\KNotes\KNotes\kNotes\build\intermediates\transforms\dex\foss\debug\folders\1000\10\classes_a4118d1d60078606c0e8ab0913d2c2835d305525\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\KNotes\KNotes\kNotes\build\intermediates\incremental-runtime-classes\foss\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\projects\KNotes\KNotes\kNotes\build\intermediates\transforms\dex\foss\debug\folders\1000\10000\instant-run_7a4c4d2e41a56dbe7a6229e0c1db01dfbdcd1e04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\projects\KNotes\KNotes\kNotes\build\intermediates\incremental-classes\foss\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45971385d4ca97a8a03382831cd82916ffd8239c">
+        <dex dex="D:\projects\KNotes\KNotes\kNotes\build\intermediates\transforms\dex\foss\debug\folders\1000\10000\instant-run-bootstrap_d0898162e75160af75a501c01ea1b92f4cffd1f8\classes.dex" />
+    </item>
+
+</items>

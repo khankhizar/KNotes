@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.piwik.sdk:piwik-sdk-1.0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.2.aar/fdc608b47490ec92c0799ea417c5b88b/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/piwik-sdk-1.0.2.aar/fdc608b47490ec92c0799ea417c5b88b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.piwik.sdk/piwik-sdk/1.0.2/92e3287052a1dd825c5cd5278ab9d15056f2fa68/piwik-sdk-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
