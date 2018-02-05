@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\projects\KNotes\KNotes\kNotes\src\main\jniLibs"/></dataSet><dataSet config="foss"><source path="D:\projects\KNotes\KNotes\kNotes\src\foss\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\projects\KNotes\KNotes\kNotes\src\debug\jniLibs"/></dataSet><dataSet config="fossDebug"><source path="D:\projects\KNotes\KNotes\kNotes\src\fossDebug\jniLibs"/></dataSet></merger>

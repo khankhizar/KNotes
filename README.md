@@ -12,7 +12,7 @@ The project was created with  an attractive look and aligned with the most recen
 Actually the following functions are implemented:
 
 * Material Design interface
-  *Basic add, modify, archive, trash and delete notes actions
+* Basic add, modify, archive, trash and delete notes actions
 * Share, merge and search notes
 * Image, audio and generic file attachments
 * Manage your notes using tags and categories

@@ -25,10 +25,13 @@ import android.os.Build;
 import android.os.Environment;
 import android.os.StatFs;
 import android.provider.MediaStore;
+import android.support.v4.content.FileProvider;
 import android.text.TextUtils;
 import android.util.Log;
 import android.webkit.MimeTypeMap;
 import android.widget.Toast;
+
+import com.android.khizar.knotes.BuildConfig;
 import com.android.khizar.knotes.R;
 import com.android.khizar.knotes.models.Attachment;
 import org.apache.commons.io.FileUtils;
@@ -499,7 +502,7 @@ public class StorageHelper {
         }
         Attachment mAttachment = null;
         if (f != null) {
-            mAttachment = new Attachment(Uri.fromFile(f), StorageHelper.getMimeTypeInternal(mContext, uri));
+            mAttachment = new Attachment(FileProvider.getUriForFile(mContext, BuildConfig.APPLICATION_ID + ".provider", f), StorageHelper.getMimeTypeInternal(mContext, uri));
             mAttachment.setName(name);
             mAttachment.setSize(f.length());
         }

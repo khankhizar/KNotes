@@ -24,8 +24,8 @@ import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import it.feio.android.checklistview.utils.DensityUtil;
 import com.android.khizar.knotes.R;
+import com.example.android.checklistview.utils.DensityUtil;
 
 import java.util.Arrays;
 

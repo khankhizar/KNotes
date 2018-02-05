@@ -23,6 +23,7 @@ import android.annotation.TargetApi;
 import android.app.Activity;
 import android.app.DatePickerDialog.OnDateSetListener;
 import android.app.TimePickerDialog.OnTimeSetListener;
+import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.ActivityInfo;
@@ -45,6 +46,7 @@ import android.os.Handler;
 import android.provider.MediaStore;
 import android.support.annotation.Nullable;
 import android.support.v4.app.FragmentTransaction;
+import android.support.v4.content.FileProvider;
 import android.support.v4.util.Pair;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v4.widget.DrawerLayout;
@@ -92,6 +94,11 @@ import com.android.khizar.knotes.utils.ReminderHelper;
 import com.android.khizar.knotes.utils.StorageHelper;
 import com.android.khizar.knotes.utils.TextHelper;
 import com.android.khizar.knotes.utils.date.ReminderPickers;
+import com.example.android.checklistview.exceptions.ViewNotSupportedException;
+import com.example.android.checklistview.interfaces.CheckListChangedListener;
+import com.example.android.checklistview.models.CheckListViewItem;
+import com.example.android.checklistview.models.ChecklistManager;
+import com.example.android.checklistview.utils.DensityUtil;
 import com.neopixl.pixlui.components.edittext.EditText;
 import com.neopixl.pixlui.components.textview.TextView;
 import com.pushbullet.android.extension.MessagingExtension;
@@ -109,12 +116,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import de.greenrobot.event.EventBus;
 import de.keyboardsurfer.android.widget.crouton.Style;
-import it.feio.android.checklistview.exceptions.ViewNotSupportedException;
-import it.feio.android.checklistview.interfaces.CheckListChangedListener;
-import it.feio.android.checklistview.models.CheckListViewItem;
-import it.feio.android.checklistview.models.ChecklistManager;
-import it.feio.android.checklistview.utils.DensityUtil;
-
 import com.android.khizar.knotes.async.AttachmentTask;
 import com.android.khizar.knotes.async.bus.NotesUpdatedEvent;
 import com.android.khizar.knotes.async.notes.NoteProcessorDelete;
@@ -233,9 +234,10 @@ public class DetailFragment extends BaseFragment implements OnReminderPickedList
 	private ArrayList<String> mergedNotesIds;
 	private MainActivity mainActivity;
 	private boolean activityPausing;
+    private Context context;
 
 
-	@Override
+    @Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		mFragment = this;
@@ -1045,7 +1047,7 @@ public class DetailFragment extends BaseFragment implements OnReminderPickedList
 
 		mChecklistManager = mChecklistManager == null ? new ChecklistManager(mainActivity) : mChecklistManager;
 		int checkedItemsBehavior = Integer.valueOf(prefs.getString("settings_checked_items_behavior", String.valueOf
-				(it.feio.android.checklistview.Settings.CHECKED_HOLD)));
+				(com.example.android.checklistview.Settings.CHECKED_HOLD)));
 		mChecklistManager
 				.showCheckMarks(showChecks)
 				.newEntryHint(getString(R.string.checklist_item_hint))
@@ -1189,7 +1191,9 @@ public class DetailFragment extends BaseFragment implements OnReminderPickedList
 			return;
 		}
 		// Launches intent
-		attachmentUri = Uri.fromFile(f);
+                    // attachmentUri = Uri.fromFile(f);
+		attachmentUri= FileProvider.getUriForFile(getContext(),BuildConfig.APPLICATION_ID + ".provider", f);
+		intent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
 		intent.putExtra(MediaStore.EXTRA_OUTPUT, attachmentUri);
 		startActivityForResult(intent, TAKE_PHOTO);
 	});
@@ -1213,7 +1217,9 @@ public class DetailFragment extends BaseFragment implements OnReminderPickedList
 
 							return;
 						}
-						attachmentUri = Uri.fromFile(f);
+						//attachmentUri = Uri.fromFile(f);
+                        attachmentUri= FileProvider.getUriForFile(getContext(),BuildConfig.APPLICATION_ID + ".provider", f);
+                        takeVideoIntent.addFlags(Intent.FLAG_GRANT_READ_URI_PERMISSION);
 						takeVideoIntent.putExtra(MediaStore.EXTRA_OUTPUT, attachmentUri);
 					}
 					String maxVideoSizeStr = "".equals(prefs.getString("settings_max_video_size",
@@ -1233,6 +1239,8 @@ public class DetailFragment extends BaseFragment implements OnReminderPickedList
 			return;
 		}
 		attachmentUri = Uri.fromFile(f);
+       // attachmentUri= FileProvider.getUriForFile(getContext(),BuildConfig.APPLICATION_ID + ".provider", f);
+
 
 		// Forces portrait orientation to this fragment only
 		mainActivity.setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
@@ -2180,7 +2188,8 @@ public class DetailFragment extends BaseFragment implements OnReminderPickedList
 					} else {
 						isRecording = false;
 						stopRecording();
-						Attachment attachment = new Attachment(Uri.fromFile(new File(recordName)), Constants.MIME_TYPE_AUDIO);
+                        Attachment attachment = new Attachment(FileProvider.getUriForFile(getContext(), BuildConfig.APPLICATION_ID + ".provider", new File(recordName)),Constants.MIME_TYPE_AUDIO);
+						//Attachment attachment = new Attachment(Uri.fromFile(new File(recordName)), Constants.MIME_TYPE_AUDIO);
 						attachment.setLength(audioRecordingTime);
 						addAttachment(attachment);
 						mAttachmentAdapter.notifyDataSetChanged();

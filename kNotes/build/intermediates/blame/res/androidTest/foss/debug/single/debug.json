@@ -149,7 +149,7 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-hdpi-v4_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-hdpi-v4\\ic_action_cancel.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-hdpi-v4\\ic_action_cancel.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable_abc_btn_radio_material.xml.flat",
@@ -181,11 +181,11 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xxhdpi-v4_ic_drag_handle.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-xxhdpi-v4\\ic_drag_handle.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-xxhdpi-v4\\ic_drag_handle.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xxhdpi-v4_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-xxhdpi-v4\\ic_action_cancel.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-xxhdpi-v4\\ic_action_cancel.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -965,11 +965,11 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\layout_checklistview_item.xml.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\layout\\checklistview_item.xml"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\layout\\checklistview_item.xml"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable_icon_selector.xml.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable\\icon_selector.xml"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable\\icon_selector.xml"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -1037,7 +1037,7 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xhdpi-v4_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-xhdpi-v4\\ic_action_cancel.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-xhdpi-v4\\ic_action_cancel.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -1381,7 +1381,7 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xhdpi-v4_ic_drag_handle.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-xhdpi-v4\\ic_drag_handle.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-xhdpi-v4\\ic_drag_handle.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-xxhdpi_ic_arrow_forward_white_24px.png.flat",
@@ -1601,7 +1601,7 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-hdpi-v4_ic_drag_handle.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-hdpi-v4\\ic_drag_handle.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-hdpi-v4\\ic_drag_handle.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\layout_design_navigation_menu.xml.flat",
@@ -1721,7 +1721,7 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-mdpi-v4_ic_drag_handle.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-mdpi-v4\\ic_drag_handle.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-mdpi-v4\\ic_drag_handle.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\layout_md_listitem.xml.flat",
@@ -1897,7 +1897,7 @@
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable-mdpi-v4_ic_action_cancel.png.flat",
-        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-3.2.1.aar\\f1058b4bf44951070c27d5914e0aa746\\res\\drawable-mdpi-v4\\ic_action_cancel.png"
+        "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\drawable-mdpi-v4\\ic_action_cancel.png"
     },
     {
         "merged": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\res\\merged\\androidTest\\foss\\debug\\drawable_abc_text_cursor_material.xml.flat",

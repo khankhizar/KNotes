@@ -12260,13 +12260,14 @@ public final class R {
   public static final class xml {
     public static final int appwidget_list=0x7f130000;
     public static final int appwidget_simple=0x7f130001;
-    public static final int searchable=0x7f130002;
-    public static final int settings=0x7f130003;
-    public static final int settings_behaviors=0x7f130004;
-    public static final int settings_data=0x7f130005;
-    public static final int settings_interface=0x7f130006;
-    public static final int settings_navigation=0x7f130007;
-    public static final int settings_notifications=0x7f130008;
-    public static final int settings_sync_import_export=0x7f130009;
+    public static final int provider_paths=0x7f130002;
+    public static final int searchable=0x7f130003;
+    public static final int settings=0x7f130004;
+    public static final int settings_behaviors=0x7f130005;
+    public static final int settings_data=0x7f130006;
+    public static final int settings_interface=0x7f130007;
+    public static final int settings_navigation=0x7f130008;
+    public static final int settings_notifications=0x7f130009;
+    public static final int settings_sync_import_export=0x7f13000a;
   }
 }

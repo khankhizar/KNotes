@@ -1,4 +1,0 @@
-#Mon Jan 29 18:11:30 IST 2018
-base.0=D\:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\transforms\\dexMerger\\foss\\debug\\3
-path.0=classes.dex
-renamed.0=classes.dex
