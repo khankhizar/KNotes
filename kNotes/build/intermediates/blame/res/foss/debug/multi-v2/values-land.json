@@ -4,25 +4,6 @@
             "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\dbc32f8a9682952fb1b5a69083a9e0df\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "232"
-                    },
-                    "to": {
-                        "startLines": "14",
-                        "startColumns": "4",
-                        "startOffsets": "766",
-                        "endLines": "17",
-                        "endColumns": "12",
-                        "endOffsets": "943"
-                    }
-                },
-                {
                     "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9b8950baa2870bf72403e19720435577\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -81,6 +62,25 @@
                         "startOffsets": "328,375,600,655,711",
                         "endColumns": "46,48,54,55,54",
                         "endOffsets": "370,419,650,706,761"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\057544b18f06057f8690e5a5e494799a\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "766",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "943"
                     }
                 }
             ]

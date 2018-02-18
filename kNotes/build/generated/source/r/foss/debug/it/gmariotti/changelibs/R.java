@@ -8,14 +8,14 @@ package it.gmariotti.changelibs;
 
 public final class R {
     public static final class attr {
-        public static final int changeLogFileResourceId = 0x7f04004e;
-        public static final int changeLogFileResourceUrl = 0x7f04004f;
-        public static final int layoutManager = 0x7f0400c9;
-        public static final int reverseLayout = 0x7f04012b;
-        public static final int rowHeaderLayoutId = 0x7f04012d;
-        public static final int rowLayoutId = 0x7f04012e;
-        public static final int spanCount = 0x7f04013a;
-        public static final int stackFromEnd = 0x7f040140;
+        public static final int changeLogFileResourceId = 0x7f040050;
+        public static final int changeLogFileResourceUrl = 0x7f040051;
+        public static final int layoutManager = 0x7f0400d0;
+        public static final int reverseLayout = 0x7f040139;
+        public static final int rowHeaderLayoutId = 0x7f04013b;
+        public static final int rowLayoutId = 0x7f04013c;
+        public static final int spanCount = 0x7f04014a;
+        public static final int stackFromEnd = 0x7f040150;
     }
     public static final class color {
         public static final int chglib_background_default_divider_color = 0x7f060060;
@@ -29,20 +29,20 @@ public final class R {
         public static final int chglib_material_list_fontsize = 0x7f070058;
         public static final int chglib_material_list_suheader_fontsize = 0x7f070059;
         public static final int chglib_material_minHeight = 0x7f07005a;
-        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f0700a9;
-        public static final int listPreferredItemHeightSmall = 0x7f0700ad;
+        public static final int item_touch_helper_max_drag_scroll_per_frame = 0x7f0700b5;
+        public static final int listPreferredItemHeightSmall = 0x7f0700b9;
     }
     public static final class id {
-        public static final int chg_headerDate = 0x7f090041;
-        public static final int chg_headerVersion = 0x7f090042;
-        public static final int chg_row = 0x7f090043;
-        public static final int chg_rowheader = 0x7f090044;
-        public static final int chg_text = 0x7f090045;
-        public static final int chg_textbullet = 0x7f090046;
-        public static final int item_touch_helper_previous_elevation = 0x7f0900c5;
+        public static final int chg_headerDate = 0x7f090043;
+        public static final int chg_headerVersion = 0x7f090044;
+        public static final int chg_row = 0x7f090045;
+        public static final int chg_rowheader = 0x7f090046;
+        public static final int chg_text = 0x7f090047;
+        public static final int chg_textbullet = 0x7f090048;
+        public static final int item_touch_helper_previous_elevation = 0x7f0900ca;
     }
     public static final class integer {
-        public static final int font_textStyle_material_item = 0x7f0a0007;
+        public static final int font_textStyle_material_item = 0x7f0a0008;
     }
     public static final class layout {
         public static final int changelogrow_layout = 0x7f0b0025;
@@ -63,16 +63,22 @@ public final class R {
         public static final int font_fontFamily_material_item = 0x7f1000a0;
     }
     public static final class styleable {
-        public static final int[] ChangeLogListView = { 0x7f04004e, 0x7f04004f, 0x7f04012d, 0x7f04012e };
+        public static final int[] ChangeLogListView = { 0x7f040050, 0x7f040051, 0x7f04013b, 0x7f04013c };
         public static final int ChangeLogListView_changeLogFileResourceId = 0;
         public static final int ChangeLogListView_changeLogFileResourceUrl = 1;
         public static final int ChangeLogListView_rowHeaderLayoutId = 2;
         public static final int ChangeLogListView_rowLayoutId = 3;
-        public static final int[] RecyclerView = { 0x010100c4, 0x7f0400c9, 0x7f04012b, 0x7f04013a, 0x7f040140 };
+        public static final int[] RecyclerView = { 0x010100c4, 0x010100f1, 0x7f0400a6, 0x7f0400a7, 0x7f0400a8, 0x7f0400a9, 0x7f0400aa, 0x7f0400d0, 0x7f040139, 0x7f04014a, 0x7f040150 };
         public static final int RecyclerView_android_orientation = 0;
-        public static final int RecyclerView_layoutManager = 1;
-        public static final int RecyclerView_reverseLayout = 2;
-        public static final int RecyclerView_spanCount = 3;
-        public static final int RecyclerView_stackFromEnd = 4;
+        public static final int RecyclerView_android_descendantFocusability = 1;
+        public static final int RecyclerView_fastScrollEnabled = 2;
+        public static final int RecyclerView_fastScrollHorizontalThumbDrawable = 3;
+        public static final int RecyclerView_fastScrollHorizontalTrackDrawable = 4;
+        public static final int RecyclerView_fastScrollVerticalThumbDrawable = 5;
+        public static final int RecyclerView_fastScrollVerticalTrackDrawable = 6;
+        public static final int RecyclerView_layoutManager = 7;
+        public static final int RecyclerView_reverseLayout = 8;
+        public static final int RecyclerView_spanCount = 9;
+        public static final int RecyclerView_stackFromEnd = 10;
     }
 }

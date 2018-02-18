@@ -13,12 +13,12 @@ public final class R {
         public static final int bar_pointer_halo_radius = 0x7f040039;
         public static final int bar_pointer_radius = 0x7f04003a;
         public static final int bar_thickness = 0x7f04003b;
-        public static final int color_center_halo_radius = 0x7f040063;
-        public static final int color_center_radius = 0x7f040064;
-        public static final int color_pointer_halo_radius = 0x7f040065;
-        public static final int color_pointer_radius = 0x7f040066;
-        public static final int color_wheel_radius = 0x7f040067;
-        public static final int color_wheel_thickness = 0x7f040068;
+        public static final int color_center_halo_radius = 0x7f040065;
+        public static final int color_center_radius = 0x7f040066;
+        public static final int color_pointer_halo_radius = 0x7f040067;
+        public static final int color_pointer_radius = 0x7f040068;
+        public static final int color_wheel_radius = 0x7f040069;
+        public static final int color_wheel_thickness = 0x7f04006a;
     }
     public static final class dimen {
         public static final int bar_length = 0x7f070053;
@@ -39,7 +39,7 @@ public final class R {
         public static final int ColorBars_bar_pointer_halo_radius = 2;
         public static final int ColorBars_bar_pointer_radius = 3;
         public static final int ColorBars_bar_thickness = 4;
-        public static final int[] ColorPicker = { 0x7f040063, 0x7f040064, 0x7f040065, 0x7f040066, 0x7f040067, 0x7f040068 };
+        public static final int[] ColorPicker = { 0x7f040065, 0x7f040066, 0x7f040067, 0x7f040068, 0x7f040069, 0x7f04006a };
         public static final int ColorPicker_color_center_halo_radius = 0;
         public static final int ColorPicker_color_center_radius = 1;
         public static final int ColorPicker_color_pointer_halo_radius = 2;
