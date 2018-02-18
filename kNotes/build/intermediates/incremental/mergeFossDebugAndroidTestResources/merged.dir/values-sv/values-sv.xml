@@ -205,6 +205,7 @@
     <string msgid="4142791438636994952" name="recurrence_end_date_label">"Till ett visst datum"</string>
     <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"samma dag varje månad"</string>
     <string msgid="2133599104834432589" name="save_label">"Färdig"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Sök"</string>
     <string msgid="3973338219107019769" name="select_day">"Välj månad och dag"</string>
     <string msgid="7651068754188418859" name="select_hours">"Välj timmar"</string>
     <string msgid="8327182090226828481" name="select_minutes">"Välj minuter"</string>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.khankhizar:ui-master-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-master-1.0.2.aar/a0ff89890c674e868f611d0f89a7e449/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ui-master-1.0.2.aar/a0ff89890c674e868f611d0f89a7e449/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -4,6 +4,16 @@
             "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeFossDebugAndroidTestResources\\merged.dir\\values-v13\\values-v13.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9b8950baa2870bf72403e19720435577\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                },
+                {
                     "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\checklistview-develop-1.0.1.aar\\fe19a2dccc6246d043723f393f58d5af\\res\\values-v13\\values-v13.xml",
                     "from": {
                         "startLines": "2",
@@ -20,16 +30,6 @@
                         "endLines": "5",
                         "endColumns": "12",
                         "endOffsets": "259"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\93a2e62f563b9d2871e242cf14d27f61\\res\\values-v13\\values-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "58",
-                        "endOffsets": "109"
                     }
                 }
             ]

@@ -4,6 +4,16 @@
             "outputFile": "D:\\projects\\KNotes\\KNotes\\kNotes\\build\\intermediates\\incremental\\mergeFossDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\f1a2b2328f4fb088a2a619077a2dcd3e\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
                     "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\library-0.0.2.aar\\fd26a2425c988e7bf98a3f815b7d6d69\\res\\values-v16\\values.xml",
                     "from": {
                         "startLines": "6,10,14,18",
@@ -14,12 +24,31 @@
                         "endOffsets": "275,555,674,791"
                     },
                     "to": {
-                        "startLines": "2,3,6,9",
+                        "startLines": "3,8,11,14",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "55,127,255,369",
-                        "endLines": "2,5,8,11",
+                        "startOffsets": "121,366,494,608",
+                        "endLines": "3,10,13,16",
                         "endColumns": "71,12,12,12",
-                        "endOffsets": "122,250,364,476"
+                        "endOffsets": "188,489,603,715"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9b8950baa2870bf72403e19720435577\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "193",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "361"
                     }
                 }
             ]

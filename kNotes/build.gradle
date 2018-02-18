@@ -148,14 +148,14 @@ dependencies {
     compile 'com.tbruyelle.rxpermissions:rxpermissions:0.4.2@aar'
     compile 'org.ocpsoft.prettytime:prettytime:3.2.7.Final'
 
-    compile ('com.github.federicoiosue:SimpleGallery:2.0.0') {
+    compile ('com.github.khankhizar:SimpleGallery-developed:1.0.3') {
         exclude group: 'com.android.support'
     }
-    compile 'com.github.federicoiosue:Omni-Notes-Commons:1.2.0'
+    compile 'com.github.khankhizar:KNotesCommon:1.0.1'
     compile ('com.github.khankhizar:checklistview-develop:1.0.1') {
         transitive=false
     }
-    compile 'com.github.federicoiosue:pixlui:2.6'
+    compile 'com.github.khankhizar:ui-master:1.0.2'
     compile "commons-io:commons-io:+"
     // Flavors specific dependecies
 

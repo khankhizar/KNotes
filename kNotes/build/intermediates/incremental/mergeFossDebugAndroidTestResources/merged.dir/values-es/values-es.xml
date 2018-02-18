@@ -178,8 +178,8 @@
     <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
     <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
     <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
-    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
-    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
     <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
     <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
     <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
@@ -205,6 +205,7 @@
     <string msgid="4142791438636994952" name="recurrence_end_date_label">"Hasta una fecha"</string>
     <string msgid="4400107556121003459" name="recurrence_month_pattern_by_day">"el mismo día de cada mes"</string>
     <string msgid="2133599104834432589" name="save_label">"Listo"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
     <string msgid="3973338219107019769" name="select_day">"Seleccionar mes y día"</string>
     <string msgid="7651068754188418859" name="select_hours">"Seleccionar horas"</string>
     <string msgid="8327182090226828481" name="select_minutes">"Seleccionar minutos"</string>

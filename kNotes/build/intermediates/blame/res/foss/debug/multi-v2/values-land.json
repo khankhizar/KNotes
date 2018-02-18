@@ -14,22 +14,22 @@
                         "endOffsets": "232"
                     },
                     "to": {
-                        "startLines": "16",
+                        "startLines": "14",
                         "startColumns": "4",
-                        "startOffsets": "900",
-                        "endLines": "19",
+                        "startOffsets": "766",
+                        "endLines": "17",
                         "endColumns": "12",
-                        "endOffsets": "1077"
+                        "endOffsets": "943"
                     }
                 },
                 {
-                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\93a2e62f563b9d2871e242cf14d27f61\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\khizar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\9b8950baa2870bf72403e19720435577\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "55,117,189,259,323,394",
-                        "endColumns": "61,71,69,63,70,67",
-                        "endOffsets": "112,184,254,318,389,457"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
                     }
                 },
                 {
@@ -42,11 +42,11 @@
                         "endOffsets": "811,753"
                     },
                     "to": {
-                        "startLines": "11,12",
+                        "startLines": "9,10",
                         "startColumns": "4,4",
-                        "startOffsets": "621,678",
+                        "startOffsets": "487,544",
                         "endColumns": "56,55",
-                        "endOffsets": "673,729"
+                        "endOffsets": "539,595"
                     }
                 },
                 {
@@ -59,11 +59,11 @@
                         "endOffsets": "815"
                     },
                     "to": {
-                        "startLines": "10",
+                        "startLines": "8",
                         "startColumns": "4",
-                        "startOffsets": "558",
+                        "startOffsets": "424",
                         "endColumns": "62",
-                        "endOffsets": "616"
+                        "endOffsets": "482"
                     }
                 },
                 {
@@ -76,11 +76,11 @@
                         "endOffsets": "250,300,356,413,469"
                     },
                     "to": {
-                        "startLines": "8,9,13,14,15",
+                        "startLines": "6,7,11,12,13",
                         "startColumns": "4,4,4,4,4",
-                        "startOffsets": "462,509,734,789,845",
+                        "startOffsets": "328,375,600,655,711",
                         "endColumns": "46,48,54,55,54",
-                        "endOffsets": "504,553,784,840,895"
+                        "endOffsets": "370,419,650,706,761"
                     }
                 }
             ]

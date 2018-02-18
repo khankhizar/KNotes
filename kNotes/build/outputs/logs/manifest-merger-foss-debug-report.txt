@@ -24,32 +24,39 @@ MERGED from [com.android.support:design:23.4.0] C:\Users\khizar\.gradle\caches\t
 MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\commons-0.8.5.6.aar\d269a7671c260a54a6092005b5ab0297\AndroidManifest.xml:2:1-14:12
 MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:2:1-15:12
 MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.khankhizar:KNotesCommon:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\KNotesCommon-1.0.1.aar\569cfe0fd38779af3a2f2a7dfde97bf1\AndroidManifest.xml:2:1-11:12
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\84119ec0dc4e401ee180794966b23a17\AndroidManifest.xml:6:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\6348db1368cb429d54196ed0a9f14330\AndroidManifest.xml:17:1-22:12
 MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:2:1-11:12
 MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:2:1-14:12
 MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:17:1-29:12
 MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:17:1-31:12
-MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.khankhizar:SimpleGallery-developed:1.0.3] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-developed-1.0.3.aar\6e50008238c327e0d6fcf0a242fd1c8a\AndroidManifest.xml:2:1-17:12
 MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\6d2453963aaa3761324195f6fd022ef2\AndroidManifest.xml:2:1-7:12
 MERGED from [com.github.paolorotolo:appintro:1.3.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\6f375f0f0be09f838091f930336a0014\AndroidManifest.xml:2:1-11:12
 MERGED from [io.reactivex:rxandroid:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxandroid-1.0.1.aar\030053f61edaddc7734075be4168bab2\AndroidManifest.xml:15:1-21:12
 MERGED from [com.artemzin.rxjava:proguard-rules:1.0.14.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\proguard-rules-1.0.14.2.aar\0f10157722a8066cb6d1ead0c57d49d5\AndroidManifest.xml:2:1-10:12
 MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:2:1-17:12
 MERGED from [com.github.khankhizar:checklistview-develop:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-develop-1.0.1.aar\fe19a2dccc6246d043723f393f58d5af\AndroidManifest.xml:2:1-13:12
-MERGED from [com.github.federicoiosue:pixlui:2.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\pixlui-2.6.aar\3a0e156a203355dcf5b93e88b36a2b42\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.khankhizar:ui-master:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\ui-master-1.0.2.aar\a0ff89890c674e868f611d0f89a7e449\AndroidManifest.xml:2:1-11:12
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:2:1-19:12
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\leakcanary-android-no-op-1.5.aar\0110cba1e45c51a8002e9b378b29e100\AndroidManifest.xml:17:1-24:12
 MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:2:1-10:12
 MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0a3fff527dd3312805dcd8bb5f9ca5cf\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:17:1-31:12
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:45:1-56:12
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:2:1-13:12
 MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:2:1-13:12
 MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:22:1-33:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:17:1-30:12
 INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-290:12
 INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-290:12
 INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:3:1-290:12
@@ -175,8 +182,8 @@ MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khiza
 MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:13:5-20
 MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:11:5-20
 MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:11:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:25:5-29:19
 MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:9:5-20
 MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:9:5-20
 MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\floatingactionbutton-1.10.1.aar\27e456c8f56809ada9f639f935e2725c\AndroidManifest.xml:12:5-20
@@ -185,20 +192,30 @@ MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gr
 MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:26:5-27:19
 MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:26:5-29:19
 MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:26:5-29:19
-MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:11:5-15:19
-MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.khankhizar:SimpleGallery-developed:1.0.3] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-developed-1.0.3.aar\6e50008238c327e0d6fcf0a242fd1c8a\AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.khankhizar:SimpleGallery-developed:1.0.3] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-developed-1.0.3.aar\6e50008238c327e0d6fcf0a242fd1c8a\AndroidManifest.xml:11:5-15:19
 MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:10:5-15:19
 MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:10:5-15:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:11:5-17:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:11:5-17:19
 MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:8:5-20
 MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:8:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:25:5-29:19
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:54:5-20
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:54:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:11:5-20
@@ -207,6 +224,8 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\
 MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:11:5-20
 MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:31:5-20
 MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:31:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
 		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:38:9-35
 	android:label
@@ -219,7 +238,7 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\
 		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:34:9-35
 	android:theme
 		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:39:9-59
-		REJECTED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:14:9-40
+		REJECTED from [com.github.khankhizar:SimpleGallery-developed:1.0.3] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-developed-1.0.3.aar\6e50008238c327e0d6fcf0a242fd1c8a\AndroidManifest.xml:14:9-40
 	tools:replace
 		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:40:9-38
 	android:name
@@ -564,10 +583,12 @@ MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khiza
 MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\core-0.8.5.6.aar\3a50185407cba2eeb148ddf66f151ac6\AndroidManifest.xml:8:5-11:75
 MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:7:5-9:41
 MERGED from [com.pnikosis:materialish-progress:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\materialish-progress-1.5.aar\1750b4c74c27401c3b4180e0fbcaea4f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.khankhizar:KNotesCommon:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\KNotesCommon-1.0.1.aar\569cfe0fd38779af3a2f2a7dfde97bf1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.khankhizar:KNotesCommon:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\KNotesCommon-1.0.1.aar\569cfe0fd38779af3a2f2a7dfde97bf1\AndroidManifest.xml:7:5-9:41
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\84119ec0dc4e401ee180794966b23a17\AndroidManifest.xml:11:5-13:41
 MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\library-1.1.4.aar\84119ec0dc4e401ee180794966b23a17\AndroidManifest.xml:11:5-13:41
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\93a2e62f563b9d2871e242cf14d27f61\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\6348db1368cb429d54196ed0a9f14330\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:multidex:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\6348db1368cb429d54196ed0a9f14330\AndroidManifest.xml:20:5-43
 MERGED from [com.pushbullet:android-extensions:1.0.4] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\android-extensions-1.0.4.aar\44ea9ced125f4f4edafa82a1bad1ec15\AndroidManifest.xml:5:5-7:41
@@ -578,8 +599,8 @@ MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gr
 MERGED from [com.nhaarman.listviewanimations:lib-core:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-core-3.1.0.aar\e7581fdacf7fbec4ee100fbc7bd7757b\AndroidManifest.xml:22:5-24:41
 MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:22:5-24:41
 MERGED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:22:5-24:41
-MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.federicoiosue:SimpleGallery:2.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-2.0.0.aar\5fd0c38be6ca9fa8fee9affccaabedf4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.khankhizar:SimpleGallery-developed:1.0.3] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-developed-1.0.3.aar\6e50008238c327e0d6fcf0a242fd1c8a\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.khankhizar:SimpleGallery-developed:1.0.3] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\SimpleGallery-developed-1.0.3.aar\6e50008238c327e0d6fcf0a242fd1c8a\AndroidManifest.xml:7:5-9:41
 MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\6d2453963aaa3761324195f6fd022ef2\AndroidManifest.xml:5:5-43
 MERGED from [com.jakewharton:butterknife:8.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\butterknife-8.5.1.aar\6d2453963aaa3761324195f6fd022ef2\AndroidManifest.xml:5:5-43
 MERGED from [com.github.paolorotolo:appintro:1.3.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appintro-1.3.0.aar\6f375f0f0be09f838091f930336a0014\AndroidManifest.xml:7:5-9:41
@@ -592,8 +613,8 @@ MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.g
 MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.4.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\rxpermissions-0.4.2.aar\53982892f55d8d8e74a12306f7d0b9a6\AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.khankhizar:checklistview-develop:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-develop-1.0.1.aar\fe19a2dccc6246d043723f393f58d5af\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.khankhizar:checklistview-develop:1.0.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\checklistview-develop-1.0.1.aar\fe19a2dccc6246d043723f393f58d5af\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.federicoiosue:pixlui:2.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\pixlui-2.6.aar\3a0e156a203355dcf5b93e88b36a2b42\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.federicoiosue:pixlui:2.6] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\pixlui-2.6.aar\3a0e156a203355dcf5b93e88b36a2b42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.khankhizar:ui-master:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\ui-master-1.0.2.aar\a0ff89890c674e868f611d0f89a7e449\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.khankhizar:ui-master:1.0.2] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\ui-master-1.0.2.aar\a0ff89890c674e868f611d0f89a7e449\AndroidManifest.xml:7:5-9:41
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:7:5-43
 MERGED from [com.squareup.leakcanary:leakcanary-android-no-op:1.5] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\leakcanary-android-no-op-1.5.aar\0110cba1e45c51a8002e9b378b29e100\AndroidManifest.xml:20:5-22:41
@@ -602,12 +623,22 @@ MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches
 MERGED from [com.jakewharton.timber:timber:4.5.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\timber-4.5.1.aar\e2276a61817848e9201b36200e97e850\AndroidManifest.xml:6:5-43
 MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0a3fff527dd3312805dcd8bb5f9ca5cf\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\0a3fff527dd3312805dcd8bb5f9ca5cf\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\8faf43453d36e9ca380c026b8ab702da\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\76ff9d3ddb8c38ba75975d03ef94b860\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\cf3bdeecf97d628ef3c58ff5eb100110\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:21:5-23:58
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:50:5-43
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.5.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-core-2.5.0.aar\484fbe618bdc8441d204d63b17155eca\AndroidManifest.xml:50:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.7] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\beta-1.2.7.aar\cf81244907b8c397ae5ce6f9fe248b99\AndroidManifest.xml:7:5-43
@@ -616,6 +647,8 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\
 MERGED from [com.crashlytics.sdk.android:answers:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\answers-1.4.1.aar\698a90ced5e905a0588dd18e48aa826f\AndroidManifest.xml:7:5-43
 MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:27:5-43
 MERGED from [io.fabric.sdk.android:fabric:1.4.1] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\fabric-1.4.1.aar\10d96fec79787f8be42bba3643730e88\AndroidManifest.xml:27:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:20:5-22:41
 INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
 INJECTED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml
 	tools:overrideLibrary
@@ -634,6 +667,28 @@ ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:284:13-
 		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:286:17-55
 	android:name
 		ADDED from D:\projects\KNotes\KNotes\kNotes\src\main\AndroidManifest.xml:285:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\89971ee34eb222071427b0f55b56106d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\21a94773a453506c755d178ff7c8e25b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c5451790a8d9cbcfb2c9285f9f24c84b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b816791d2c42ef0b0d8107ee3c825a6b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3522ab9549ed83d039ae84d695852a25\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\36aeb27c54bcefbd10378f5415192bd2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\03f877f595dd43f7309afa9f633ef126\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\f1a2b2328f4fb088a2a619077a2dcd3e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\9b8950baa2870bf72403e19720435577\AndroidManifest.xml:27:13-51
 activity#com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity
 ADDED from [com.nhaarman.listviewanimations:lib-manipulation:3.1.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\lib-manipulation-3.1.0.aar\941cf3f14eb95cd81d20e91802d3ec39\AndroidManifest.xml:27:9-129
 	android:name
@@ -660,3 +715,9 @@ ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.grad
 		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:16:13-36
 	android:name
 		ADDED from [com.crashlytics.sdk.android:crashlytics:2.8.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\crashlytics-2.8.0.aar\0370e8282a6316ef5dc2d2cb9f1025fc\AndroidManifest.xml:13:13-75
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\khizar\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\34e2eea9ab2d4d96c8f464fb7865a5fd\AndroidManifest.xml:26:13-58
